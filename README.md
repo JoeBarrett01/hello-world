@@ -1,2 +1,2 @@
 # hello-world
-Joe's first repository
+My name is Joe Barrett, a math major at UVA. 
